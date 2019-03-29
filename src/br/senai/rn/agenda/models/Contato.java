@@ -101,5 +101,10 @@ public class Contato implements PersistDB {
 	public String toString() {
 		return "Contato [id=" + id + ", nome=" + nome + ", fones=" + fones + ", emails=" + emails + "]";
 	}
+
+	public CharSequence getContato() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 	
 }
